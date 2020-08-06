@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/generateGmail.iml" filepath="$PROJECT_DIR$/generateGmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenerateGmail.iml" filepath="$PROJECT_DIR$/GenerateGmail.iml" />
     </modules>
   </component>
 </project>
